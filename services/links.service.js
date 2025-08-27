@@ -1,10 +1,11 @@
 
 class LinksService {
 
-    constructor(axiosInstance, authServiceInstance, apiError) {
+    constructor(axiosInstance, authServiceInstance, linkValidator, apiError) {
         this.axios = axiosInstance
         this.authService = authServiceInstance
         this.apiError = apiError
+        this.linkValidator = linkValidator
         this.baseURL = `${process.env.CLIENT_URL}/api/v4`
     }
 
@@ -12,13 +13,15 @@ class LinksService {
         try {
             return await this.authService.getCurrentToken()
         } catch (error) {
-            throw this.apiError.BadRequest(['Пользователь не авторизован'])
+            throw error
         }
     }
 
     async createLink(linkData) {
         try {
             const { lead_id, contact_id } = linkData
+
+            this.linkValidator.validate(linkData, 'create')
 
             const lead = await this.checkLeadExists(lead_id)
 
@@ -50,10 +53,7 @@ class LinksService {
 
             return response.data
         } catch (error) {
-            return this.apiError.BadRequest({
-                message: 'Ошибки при создании связи',
-                errors: error?.response?.data
-            })
+            throw error
         }
     }
 
@@ -62,6 +62,8 @@ class LinksService {
             const { lead_id, contact_id } = linkData
 
             const accessToken = await this.getValidAccessToken()
+
+            this.linkValidator.validate(linkData, 'delete')
 
             const response = await this.axios.post(
                 `${this.baseURL}/leads/${lead_id}/unlink`,
@@ -79,10 +81,7 @@ class LinksService {
 
             return response.data
         } catch (error) {
-            return this.apiError.BadRequest({
-                message: 'Ошибки при удалении связи',
-                errors: error?.response?.data
-            })
+            throw error
         }
     }
 

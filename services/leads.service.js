@@ -1,9 +1,10 @@
 
 class LeadsService {
 
-    constructor(axiosInstance, authServiceInstance, apiError) {
+    constructor(axiosInstance, authServiceInstance, leadValidator, apiError) {
         this.axios = axiosInstance
         this.authService = authServiceInstance
+        this.leadValidator = leadValidator
         this.apiError = apiError
         this.baseURL = `${process.env.CLIENT_URL}/api/v4`
     }
@@ -20,11 +21,9 @@ class LeadsService {
         try {
             const accessToken = await this.getValidAccessToken()
 
-            const existingLead = await this.checkLeadExists(leadData?.[0]?.name)
+            this.leadValidator.validate(leadData, 'create')
 
-            if (existingLead !== undefined) {
-                return this.apiError.BadRequest(['Сделка с таким названием уже существует'])
-            }
+            await this.checkLeadExists(leadData?.[0]?.name)
 
             const response = await this.axios.post(
                 `${this.baseURL}/leads`,
@@ -42,16 +41,13 @@ class LeadsService {
                 content: response?.data
             }
         } catch (error) {
-            return this.apiError.BadRequest([{
-                message: 'Ошибки при создании сделки',
-                errors: error?.response?.data
-            }])
+            throw error
         }
     }
 
     async checkLeadExists(name) {
         try {
-            const accessToken = await this.getValidAccessToken();
+            const accessToken = await this.getValidAccessToken()
 
             const response = await this.axios.get(
                 `${this.baseURL}/leads?filter[name]=${name}`,
@@ -63,18 +59,23 @@ class LeadsService {
                 }
             )
 
-            return response?.data?.['_page']
+            if (response?.data?.['_page'] !== undefined) {
+                throw this.apiError.BadRequest(['Сделка с таким названием уже существует']);
+            }
         } catch (error) {
-            return this.apiError.BadRequest([{
-                message: 'Ошибки при проверке существования сделки',
-                errors: error?.response?.data
-            }])
+            throw error
         }
     }
 
     async updateLead(leadId, updateData) {
         try {
-            const accessToken = await this.getValidAccessToken();
+            const accessToken = await this.getValidAccessToken()
+
+            this.leadValidator.validateLeadId(leadId)
+
+            this.leadValidator.validateUpdateData(updateData)
+
+            this.leadValidator.validate(updateData, 'update')
 
             const response = await this.axios.patch(
                 `${this.baseURL}/leads/${leadId}`,
@@ -92,16 +93,15 @@ class LeadsService {
                 content: response?.data
             }
         } catch (error) {
-            return this.apiError.BadRequest([{
-                message: 'Ошибки при обновлении сделки',
-                errors: error?.response?.data
-            }])
+            throw error
         }
     }
 
     async getLead(leadId) {
         try {
             const accessToken = await this.getValidAccessToken()
+
+            this.leadValidator.validateLeadId(leadId)
 
             const response = await this.axios.get(
                 `${this.baseURL}/leads/${leadId}`,
@@ -118,10 +118,7 @@ class LeadsService {
                 content: response?.data
             }
         } catch (error) {
-            return this.apiError.BadRequest([{
-                message: 'Ошибки при получении сделки',
-                errors: error?.response?.data
-            }])
+            throw error
         }
     }
 }

@@ -1,8 +1,9 @@
 
 class AuthService {
 
-    constructor(axiosInstance, apiError) {
+    constructor(axiosInstance, authValidator, apiError) {
         this.axios = axiosInstance
+        this.authValidator = authValidator
         this.apiError = apiError
         this.accessToken = null
         this.expiresAt = null
@@ -10,6 +11,9 @@ class AuthService {
 
     async getAccessToken(authCode) {
         try {
+
+            this.authValidator.validateAuthCode(authCode)
+
             if (this.accessToken && !this.isTokenExpired()) {
 
                 return this.accessToken
@@ -34,7 +38,7 @@ class AuthService {
             this.expiresAt = Date.now() + (response?.data?.['expires_in'] * 1000)
             return this.accessToken
         } catch (error) {
-            throw this.apiError.BadRequest(['Ошибка при получении токена'])
+            throw error
         }
     }
 
@@ -45,7 +49,7 @@ class AuthService {
             return this.accessToken
         }
 
-        throw this.apiError.BadRequest(['Токен отсутствует или истек'])
+        throw this.apiError.BadRequest(['Пользователь не авторизован'])
     }
 
     isTokenExpired() {

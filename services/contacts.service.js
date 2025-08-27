@@ -1,10 +1,10 @@
 
 class ContactsService {
 
-    constructor(axiosInstance, authServiceInstance, apiError) {
+    constructor(axiosInstance, authServiceInstance, contactValidator) {
         this.axios = axiosInstance
         this.authService = authServiceInstance
-        this.apiError = apiError
+        this.contactValidator = contactValidator
         this.baseURL = `${process.env.CLIENT_URL}/api/v4`
     }
 
@@ -12,13 +12,15 @@ class ContactsService {
         try {
             return await this.authService.getCurrentToken()
         } catch (error) {
-            throw this.apiError.BadRequest(['Пользователь не авторизован'])
+            throw error
         }
     }
 
     async createContact(contactData) {
         try {
             const accessToken = await this.getValidAccessToken()
+
+            this.contactValidator.validate(contactData, 'create')
 
             const response = await this.axios.post(
                 `${this.baseURL}/contacts`,
@@ -36,16 +38,19 @@ class ContactsService {
                 content: response.data
             }
         } catch (error) {
-            return this.apiError.BadRequest({
-                message: 'Ошибки при создании контакта',
-                errors: error?.response?.data
-            })
+            throw error
         }
     }
 
     async updateContact(contactId, updateData) {
         try {
             const accessToken = await this.getValidAccessToken()
+
+            this.contactValidator.validateContactId(contactId)
+
+            this.contactValidator.validateUpdateData(updateData)
+
+            this.contactValidator.validate(updateData, 'update')
 
             const response = await this.axios.patch(
                 `${this.baseURL}/contacts/${contactId}`,
@@ -63,16 +68,15 @@ class ContactsService {
                 content: response.data
             }
         } catch (error) {
-            return this.apiError.BadRequest({
-                message: 'Ошибки при обновлении контакта',
-                errors: error?.response?.data
-            })
+            throw error
         }
     }
 
     async getContact(contactId) {
         try {
             const accessToken = await this.getValidAccessToken()
+
+            this.contactValidator.validateContactId(contactId)
 
             const response = await this.axios.get(
                 `${this.baseURL}/contacts/${contactId}`,
@@ -89,10 +93,7 @@ class ContactsService {
                 content: response.data
             }
         } catch (error) {
-            return this.apiError.BadRequest({
-                message: 'Ошибки при получении контакта',
-                errors: error?.response?.data
-            })
+            throw error
         }
     }
 }

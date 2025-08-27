@@ -1,25 +1,15 @@
 
 class LinkModel {
 
-    constructor(apiError) {
-        this.apiError = apiError
+    constructor() {
+
     }
 
-    validate(data, operation) {
-        if (operation === 'create' || operation === 'delete') {
-
-            if (typeof data?.['lead_id'] !== 'number') {
-                throw this.apiError.BadRequest(['ID сделки (lead_id) должен быть числом'])
-            }
-
-            if (typeof data?.['contact_id'] !== 'number') {
-                throw this.apiError.BadRequest(['ID контакта (contact_id) должен быть числом'])
-            }
-
-            return data
+    get getLinkModel() {
+        return {
+            lead_id: Number,
+            contact_id: Number,
         }
-
-        throw this.apiError.BadRequest(['Неподдерживаемая операция валидации'])
     }
 }
 

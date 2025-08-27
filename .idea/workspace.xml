@@ -155,7 +155,11 @@
       <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/type_site/default.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/type_site/domclick.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/type_site/youla.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/auth.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validators/auth.validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validators/contact.validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validators/lead.validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validators/link.validator.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/.env" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/public/favicon.ico" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/assets/default.png" afterDir="false" />
@@ -770,10 +774,19 @@
       <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultEmployees_avatars/3.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultEmployees_avatars/4.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultEmployees_avatars/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/auth.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/auth.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/contacts.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/contacts.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/leads.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/leads.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/links.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/links.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-container.js" beforeDir="false" afterPath="$PROJECT_DIR$/di-container.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/contact.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/contact.model.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/lead.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/lead.model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/link.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/link.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/auth.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/auth.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/contacts.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/contacts.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/leads.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/leads.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/links.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/links.service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -843,7 +856,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756209523034</updated>
       <workItem from="1756209524604" duration="43122000" />
-      <workItem from="1756264549756" duration="2867000" />
+      <workItem from="1756264549756" duration="8587000" />
     </task>
     <servers />
   </component>

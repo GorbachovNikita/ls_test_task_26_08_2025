@@ -1,18 +1,13 @@
 
 class AuthController {
 
-    constructor(authService, apiError) {
+    constructor(authService) {
         this.authService = authService
-        this.apiError = apiError
     }
 
     authCallback = async (req, res) => {
         try {
             const authCode = req.query.code
-
-            if (!authCode) {
-                return this.apiError.BadRequest(['Отсутствует код авторизации'])
-            }
 
             const accessToken = await this.authService.getAccessToken(authCode)
 

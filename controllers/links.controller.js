@@ -1,16 +1,13 @@
 
 class LinksController {
 
-    constructor(linksService, linkModel) {
+    constructor(linksService) {
         this.linksService = linksService
-        this.linkModel = linkModel
     }
 
     createLink = async (req, res) => {
         try {
             const linkData = req.body
-
-            this.linkModel.validate(linkData, 'create')
 
             const createdLink = await this.linksService.createLink(linkData)
 
@@ -26,8 +23,6 @@ class LinksController {
     deleteLink = async (req, res) => {
         try {
             const linkData = req.body
-
-            this.linkModel.validate(linkData, 'delete')
 
             const deletedLink = await this.linksService.deleteLink(linkData)
 

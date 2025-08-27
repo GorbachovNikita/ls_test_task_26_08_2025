@@ -5,7 +5,7 @@ class LeadModel {
 
     }
 
-    get structure() {
+    get getLeadModel() {
         return {
             id: Number,
             name: String,
