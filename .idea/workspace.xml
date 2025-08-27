@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="835da48f-fa73-49c5-83d1-9198f60270c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountAvito/Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountAvito/Screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountAvito/Screenshot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountAvito/Screenshot_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountCian/Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountCian/Screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountCian/Screenshot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountCian/Screenshot_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountCian/Screenshot_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountCian/Screenshot_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountCian/Screenshot_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountDomclick/Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountDomclick/Screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountDomclick/Screenshot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountDomclick/Screenshot_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountDomclick/Screenshot_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountDomclick/Screenshot_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountDomclick/Screenshot_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountDomclick/Screenshot_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountDomclick/Screenshot_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountYoula/Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountYoula/Screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountYoula/Screenshot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountYoula/Screenshot_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountYoula/Screenshot_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountYoula/Screenshot_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountYoula/Screenshot_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/instructions/connectingAccountYoula/Screenshot_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/site_icons/icons/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/site_icons/icons/messages/edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/site_icons/icons/moreIcons/successfully.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/site_icons/icons/tariffs/employees.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/assets/site_icons/icons/tariffs/servers.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/TypeComponents/HistoryComponent.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/TypeComponents/HistoryComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/TypeComponents/HistoryComponentContentBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/TypeComponents/NewMessageComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/TypeComponents/NewMessagesComponent.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/TypeComponents/NewMessagesComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/TypeFunctions/moreTypeFunctions/changeTheEndingOfWords.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/TypeFunctions/moreTypeFunctions/disableAndEnableBodyScroll.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/TypeFunctions/moreTypeFunctions/getPageID.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/TypeFunctions/moreTypeFunctions/getValidations.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/TypeFunctions/setUserFunction.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/WebSocketComponent.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/WebSocketComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/AdminPanel/recoveryBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Ads/MapCurrentCords.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Ads/MapSearchBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Chats/messagesList.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Employees/EmailTimer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Employees/EmployeeBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Employees/EmployeeDataBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Employees/TableEmployeeBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Employees/TariffEmployeesSearchResult.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Employees/modal/CreateNewEmployee.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Employees/modal/DomclickAgentsList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Employees/modal/InstructionAvitoEmployee.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Employees/modal/InstructionCianEmployee.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Employees/modal/InstructionDomClickEmployee.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Employees/modal/InstructionYoulaEmployee.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Objects/CreateNewObject.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Objects/ObjectsStages.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Support/MessageBlockComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Tariffs/modal/BalanceReplenishment.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Tariffs/modal/BalanceReplenishment.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Tariffs/modal/BalanceReplenishmentSuccessfully.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Tariffs/modal/PurchasingAtariff.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Tariffs/modal/TariffExtension.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Test/AddAddressCompanyModal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/components/pages/Test/AddAddressCompanyModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/http/adminPanelApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/http/historyApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/http/messagesApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/http/messengerApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/http/objectsApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/http/recoveryApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/http/tariffsApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/ActivateEmail.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/AdminPanel.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/AdminPanel.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/Alerts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/Alerts.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/Errors.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/employees/EmployeePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/messages/Messages.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/messages/MessagesDialog.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/messages/MessagesList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/objects/ObjectPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/objects/Objects.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/tariffs/Tariffs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/client/src/pages/tariffs/Tariffs.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/adminPanel.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/ads.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/clients.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/employees.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/files.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/getValidations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/getVariables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/history.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/messages.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/messenger.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/objects.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/objectsBlocks.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/recovery.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/search.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/support.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/tariffs.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/controllers/typeFunctionsController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/adminPanel.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/ads.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/clients.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/employees.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/files.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/history.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/messages.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/messenger.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/objects.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/objectsBlocks.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/recovery.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/search.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/support.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/routes/tariffs.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/adminPanel.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/ads.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/checkService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/clients.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/employees.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/files.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/filterParams_avito.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/history.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/messages.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/messenger.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/objects.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/objectsBlocks.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/recovery.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/search.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/support.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/services/tariffs.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/defaultClients_avatars/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/defaultClients_avatars/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/defaultClients_avatars/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/defaultClients_avatars/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/defaultClients_avatars/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/type_site/avito.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/type_site/cian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/type_site/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/type_site/domclick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/type_site/youla.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/assets/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/assets/leftArrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/assets/noImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/assets/search_icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/AppRouter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/ErrorBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/ErrorsBlock.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/Header.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/PageTitle.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/SiteModal.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/SiteModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/UI/buttons/SiteButton.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/UI/buttons/SiteButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/UI/inputs/SiteCheckbox.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/UI/inputs/SiteCheckbox.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/UI/inputs/SiteTextInput.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/UI/inputs/SiteTextInput.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/UI/inputs/SiteTextarea.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/UI/inputs/SiteTextarea.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/addZero.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/deleteForm.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/errorHandling.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/getNewDate.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/getValidations.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Lk/LkContentBlock.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Lk/LkContentBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Lk/LkContentBlockView.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/News/Comment.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/News/CommentBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/News/DeleteComment.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/News/DeleteNew.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/News/NewsBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/News/NewsFormBlock.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/News/NewsFormBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/DeleteForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/DeleteForm1.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/DeleteUser.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/DirectorSearchResult.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/GroupBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/GroupsBlock.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/GroupsModalContent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/NewUserModalForm.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/NewUserModalForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/PostBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/PostsModalContent.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/PostsModalContent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/UserBlock.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/UserBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/UserEditModalForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/pagesComponents/Users/employeeAvatarBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/setUserFunction.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/useClickOutside.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/components/viewPages.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/http/commentsApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/http/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/http/lkApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/http/newsApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/http/userApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/http/usersApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/pages/Error.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/pages/Error.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/pages/Feed.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/pages/Feed.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/pages/Lk.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/pages/Lk.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/pages/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/pages/Login.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/pages/NewsPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/pages/Users.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/pages/Users.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/routes/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/store/UserStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/controllers/comments.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/controllers/getValidations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/controllers/lk.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/controllers/news.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/controllers/typeFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/controllers/user.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/controllers/users.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/dtos/user.dto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/exceptions/api.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/middlewares/auth.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/middlewares/error.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/routes/comments.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/routes/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/routes/lk.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/routes/news.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/routes/user.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/routes/users.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/services/checkService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/services/comments.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/services/lk.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/services/news.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/services/token.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/services/user.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/services/users.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/static/default_avatars/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/static/default_avatars/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/static/default_avatars/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/static/default_avatars/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/static/default_avatars/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorbachovnews/server/static/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/client/src/components/LoginForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/client/src/http/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/client/src/models/IUser.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/client/src/models/response/AuthResponse.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/client/src/services/AuthService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/client/src/services/UserService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/client/src/store/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/server/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/server/dtos/user-dto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/server/exceptions/api-error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/server/middlewares/auth-middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/server/middlewares/error-middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/server/models/token-model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/server/models/user-model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/server/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/server/service/mail-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/server/service/token-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_auth/server/service/user-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/assets/bigStar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/assets/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/components/AppRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/components/BrandBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/components/DeviceItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/components/DeviceList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/components/TypeBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/components/modals/CreateBrand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/components/modals/CreateDevice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/components/modals/CreateType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/http/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/http/userApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/pages/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/pages/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/pages/Basket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/pages/DevicePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/pages/Shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/store/DeviceStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/store/UserStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/client/src/utils/consts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/controllers/brandController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/controllers/deviceController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/controllers/typeController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/controllers/userController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/error/ApiError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/middleware/ErrorHandingMiddleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/middleware/authMiddleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/middleware/checkRoleMiddleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/models/models.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/routes/brandRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/routes/deviceRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/routes/typeRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-store/server/routes/userRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/defaultClients_avatars/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/defaultClients_avatars/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/defaultClients_avatars/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/defaultClients_avatars/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/defaultClients_avatars/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/sample_files/bitum_employees.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/documents/docx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/documents/excel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/documents/mp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/documents/mp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/documents/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/documents/powerpoint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/filterAndView/filter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/filterAndView/kanban.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/filterAndView/table.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/filterAndView/view.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/ads/favouritesButton.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/ads/historyButton.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/ads/saveButton.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/arrows/checkMark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/arrows/downArrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/arrows/downArrow_white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/arrows/down_arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/arrows/favicon_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/arrows/leftArrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/arrows/leftArrowSlider.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/arrows/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/arrows/rightArrowSlider.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/arrows/upArrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/arrows/upArrow_white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/addNewNews.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/ads.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/alarmClock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/alerts.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/chats.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/commentsNews.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/correspondence.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/groupChats.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/messages.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/myclients.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/mytasks.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/newAlerts.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/news.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/notes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/questions.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/reports.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/result.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/save.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/saveAndFavourites.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/searchForAds.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/support.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/feed/uploadingAds.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/headerAndLeftMenu/ads.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/headerAndLeftMenu/alerts_header.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/headerAndLeftMenu/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/headerAndLeftMenu/chats.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/headerAndLeftMenu/employees.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/headerAndLeftMenu/messages.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/headerAndLeftMenu/myclients.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/headerAndLeftMenu/mydeals.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/headerAndLeftMenu/myobjects.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/headerAndLeftMenu/mytasks.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/headerAndLeftMenu/openProfileMenu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/headerAndLeftMenu/statistics.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/messages/edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/moreIcons/accountingButton.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/moreIcons/filter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/moreIcons/fullScreen_button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/moreIcons/map_icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/moreIcons/mp4_file.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/moreIcons/normalScreen_button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/moreIcons/pause_button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/moreIcons/play_button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/moreIcons/search_icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/moreIcons/search_map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/moreIcons/successfully.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/moreIcons/supporter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/moreIcons/video_volume.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/tariffs/employees.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/tariffs/servers.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/textIcons/addFile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/textIcons/addLink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/textIcons/addPhoto.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/site_icons/icons/textIcons/addVideo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/type_socialNetworks/telegram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/type_socialNetworks/viber.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/assets/type_socialNetworks/whatsapp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/AppRouter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/ObjectsList.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/AnalyticsTracker.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/AudioPlayer.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/AudioPlayer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/EditFiles.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/ErrorBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/ErrorsBlock.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/HeaderBlock.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/HeaderBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/HistoryComponent.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/HistoryComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/HistoryComponentContentBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/LeftMenuBlock.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/LeftMenuBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/PageTitle.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/UploadBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/VideoPlayer.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/VideoPlayer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/ViewFiles.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/ViewNomenclatureImages.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeComponents/viewAndEditFiles.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/filesFunctions.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/moreTypeFunctions/addZeroForDate.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/moreTypeFunctions/disableAndEnableBodyScroll.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/moreTypeFunctions/errorHandling.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/moreTypeFunctions/forwardButtons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/moreTypeFunctions/getFormatDate.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/moreTypeFunctions/getPageID.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/moreTypeFunctions/getValidations.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/moreTypeFunctions/partnerCompaniesFunctions.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/moreTypeFunctions/searchFunction.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/moreTypeFunctions/useClickOutside.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/moreTypeFunctions/useDebounce.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/moreTypeFunctions/viewPages.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/searchFunctions.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeFunctions/setUserFunction.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeModals/SiteModal.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeModals/SiteModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeModals/ViewImagesModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/TypeModals/YesNoModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/UI/button/SiteButton.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/UI/button/SiteButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/UI/inputs/RadioCheckbox.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/UI/inputs/RadioCheckbox.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/UI/inputs/SiteCheckbox.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/UI/inputs/SiteCheckbox.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/UI/inputs/SiteLinkButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/UI/inputs/SiteSelectedCheckbox.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/UI/inputs/SiteSelectedCheckbox.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/UI/inputs/SiteTextInput.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/UI/inputs/SiteTextInput.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/UI/inputs/SiteTextarea.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/UI/inputs/SiteTextarea.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/AdminPanel/recoveryBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Chats/messagesList.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/ClientBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/ClientDataBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/ClientSearchResult.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/ClientsTypeBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/ClientsTypeBlockView.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/ClientsTypesModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/CompanySearchResult.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/CreateNewClient.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/DeleteClientsTypeModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/DeleteObjectBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/DeleteObjectOnBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/EmployeesSelectCompanyModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/EmployeesSelectUserModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/TableClientBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/deleteClientsType.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/modal/InstructionAvitoClient.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/modal/InstructionCianClient.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/modal/InstructionDomClickClient.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Clients/modal/InstructionYoulaClient.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/DeleteEmployeesGroupModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/DeleteEmployeesPositionModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/DirectorSearchResult.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/EmailTimer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/EmployeeBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/EmployeeDataBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/EmployeesGroupsBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/EmployeesGroupsModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/EmployeesPositionBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/EmployeesPositionsModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/SelectedCompanyBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/TableEmployeeBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/TariffEmployeesSearchResult.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/UserSearchResult.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/employeeAvatarBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/modal/CreateNewEmployee.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/modal/DomclickAgentsList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/modal/InstructionAvitoEmployee.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/modal/InstructionCianEmployee.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/modal/InstructionDomClickEmployee.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Employees/modal/InstructionYoulaEmployee.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Support/DeleteDocumentModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Support/MessageBlockComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Tariffs/modal/BalanceReplenishment.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Tariffs/modal/BalanceReplenishment.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/components/pages/Tariffs/modal/BalanceReplenishmentSuccessfully.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/fonts/RotondaC-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/fonts/RotondaC.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/fonts/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/PartnerCompanies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/adminPanelApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/catalogDataApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/documentsDataApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/employeesApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/filesApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/historyApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/messengerApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/nomenclatureApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/organizationsApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/printDocumentsApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/recoveryApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/searchApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/searchDeliveryApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/searchProductsApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/supportApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/tariffsApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/userApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/http/warehouseApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/ActivateEmail.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/AdminPanel.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/AdminPanel.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Alerts/AlertsPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/1 SalesData/getFormData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/1 SalesData/getTablesData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/2 Purchases/getFormData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/2 Purchases/getTablesData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/3 Warehouse/getFormData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/3 Warehouse/getTablesData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/4 Production/getFormData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/4 Production/getTablesData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/CatalogDataPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/CreateNewData.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/DataSelectionCharacteristicsModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/DataSelectionVehiclesModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/catalogDataFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/catalogDataTablesFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/getFormData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/getLinksCatalogData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/getTablesData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/modals/AccountsForSettlementsWithCounterparties.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/modals/AddActualAddressCompanyModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/modals/AddAddressCompanyModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/modals/AddMailingAddressCompanyModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/modals/SearchComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/5 CatalogData/modals/SearchImportArrayComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/6 Documents/CommercialProposal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/6 Documents/PrintDocument.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/6 Documents/document.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/7 Bank/getFormData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/7 Bank/getTablesData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/CreateDocumentModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/DataSelectionModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/DocumentsMenuPage.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/DocumentsModal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/DocumentsPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/SelectCatalogData.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/catalogDataFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/catalogDataTableFieldsValues.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/catalogDataTablesFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getAccountingAccounts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getBIC.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getCity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getCountries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getCurrency.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getDocumentsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getMenuData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getMenuTitlesData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getOKFS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getOKOPF.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getOKPD2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getOKWED.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getOperationTypeCode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getPositionsGroupsCatalogFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getRegion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getTOGS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getTheOrderOfBankPayments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getTypeOfAcceptance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/getTypesOfTransport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/pagesList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/positionsAndGroupsModal/CreateGroupModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/positionsAndGroupsModal/CreatePositionModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/positionsAndGroupsModal/DeleteForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/positionsAndGroupsModal/DeleteForm1.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/positionsAndGroupsModal/EmployeesGroups.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/positionsAndGroupsModal/EmployeesPositions.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/positionsAndGroupsModal/GroupBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/positionsAndGroupsModal/PostBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/positionsAndGroupsModal/PostsModalContent.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/positionsAndGroupsModal/deleteForm.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/DocumentsPages/searchMenuSection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Employees/ClientPage.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Employees/Clients.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Employees/EmployeePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Employees/Employees.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Employees/Employees.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Error.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Error.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Feed.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Feed.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Messages/MessagesList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Messages/MessagesPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/PartnerCompanies/Companies.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/PartnerCompanies/PartnerCompanyBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/PartnerCompanies/Partner_Companies.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/PartnerCompanies/Partnership_applications.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/PartnerCompanies/SearchCompanies.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/PartnerCompanies/modal/SelectedCompanySearchCompanies.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/PrivacyPolicy.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/PrivacyPolicy.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Recovery.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Recovery.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Delivery/ApplicationsMonitoringBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Delivery/ApplicationsMonitoringStatusBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Delivery/CreateAnOrderRequestForTheDelivererModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Delivery/DeliveryOffers.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Delivery/OrderMonitoring.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Delivery/Questionnaire.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Delivery/ResponseBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Delivery/Search_Delivery.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Delivery/ViewDeliveryBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Products/AddProductToCommercialProposalModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Products/AdvertisementBlock.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Products/Product.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Products/Search_Products.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Search_Products/ViewNomenclaturesBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Signup.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Signup.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Support/Support.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Support/Support.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/Support/SupportPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/tariffs/Tariffs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/tariffs/Tariffs.page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/viewFiles/ViewFiles.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/pages/viewFiles/ViewFiles.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/routes/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/src/store/UserStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/client/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/GorbachovGuard/validationFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/CatalogData/catalogDataFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/CatalogData/getBIC.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/CatalogData/getFormData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/CatalogData/getPositionsGroupsCatalogFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/CatalogData/getTablesData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/CatalogData/getTypeCatalogData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/CatalogData/typesPositionsAndGroups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/DocumentData/5 Bank/getFormData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/DocumentData/5 Bank/getTablesData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/DocumentData/catalogDataFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/DocumentData/catalogDataTablesFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/DocumentData/currentDocumentsListForSQL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/DocumentData/documentsNames.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/DocumentData/getFullOrganizationForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/DocumentData/getPositionsGroupsCatalogFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/DocumentData/pagesList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/DocumentData/searchMenuSection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/UpdateBIC.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/arrays/file.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/adminPanel.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/catalogData.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/documentData.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/employees.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/files.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/getValidations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/getVariables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/gorbachovGuard.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/history.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/partnerCompanies.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/printDocuments.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/recovery.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/search.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/searchDelivery.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/searchProducts.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/support.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/tariffs.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/typeFunctionsController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/controllers/user.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/exceptions/api.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/middlewares/auth.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/middlewares/error.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/adminPanel.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/catalogData.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/documentData.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/employees.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/files.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/gorbachovGuard.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/history.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/partnerCompanies.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/printDocuments.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/recovery.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/search.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/searchDelivery.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/searchProducts.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/support.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/tariffs.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/routes/user.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/adminPanel.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/catalogData.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/checkService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/documentData.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/employees.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/files.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/gorbachovGuard.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/history.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/mail.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/partnerCompanies.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/printDocuments.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/recovery.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/search.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/searchDelivery.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/searchProducts.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/support.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/tariffs.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/token.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/services/user.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/avatars/agents/2/1ab651a3-d880-4ca4-b522-5b7901464bea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/avatars/clients/321/19f4911c-3068-48a5-a316-09fc9f537ddb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/avatars/clients/321/28f2b991-5a4a-462c-aed8-99b6893b4bb8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/avatars/clients/321/3b43cefc-e5ed-466b-9186-b8f2ac2a5b18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/avatars/clients/321/7cb76cd7-f143-4883-8ed0-15f37b33e3c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/avatars/clients/321/ba0ac981-e2d9-47f5-ad33-a5d679a7439b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/avatars/clients/321/c9e801c8-e1b4-4f22-87d8-7419c9b5d42f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/avatars/clients/321/d866d7b8-323b-4498-89fd-7e0578cebc4c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultClients_avatars/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultClients_avatars/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultClients_avatars/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultClients_avatars/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultClients_avatars/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultEmployees_avatars/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultEmployees_avatars/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultEmployees_avatars/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultEmployees_avatars/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultEmployees_avatars/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gorbachov" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="31p8C1a0ua0EiUO7bw2XARxN5aQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "18.18.2",
+    "javascript.nodejs.core.library.typings.version": "18.18.2",
+    "last_opened_file_path": "C:/Users/асус/WebstormProjects/ls_test_task_26_08_2025/README.md",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\асус\WebstormProjects\gorbachov-amo-backend\middlewares" />
+      <recent name="C:\Users\асус\WebstormProjects\gorbachov-amo-backend\exceptions" />
+      <recent name="C:\Users\асус\WebstormProjects\gorbachov-amo-backend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\асус\WebstormProjects\gorbachov-amo-backend\leadsender" />
+      <recent name="C:\Users\асус\WebstormProjects\gorbachov-amo-backend" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="835da48f-fa73-49c5-83d1-9198f60270c9" name="Changes" comment="" />
+      <created>1756209523034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756209523034</updated>
+      <workItem from="1756209524604" duration="43122000" />
+      <workItem from="1756264549756" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
