@@ -155,6 +155,7 @@
       <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/type_site/default.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/type_site/domclick.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bitum-crm/server/static/type_site/youla.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/.env" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/public/favicon.ico" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gorbachovnews/client/src/assets/default.png" afterDir="false" />
@@ -769,7 +770,10 @@
       <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultEmployees_avatars/3.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultEmployees_avatars/4.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zakypaika.ru/server/static/defaultEmployees_avatars/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/lead.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/lead.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -809,12 +813,13 @@
     "WebServerToolWindowFactoryState": "false",
     "javascript.nodejs.core.library.configured.version": "18.18.2",
     "javascript.nodejs.core.library.typings.version": "18.18.2",
-    "last_opened_file_path": "C:/Users/асус/WebstormProjects/ls_test_task_26_08_2025/README.md",
+    "last_opened_file_path": "C:/Users/асус/WebstormProjects/ls_test_task_26_08_2025_1/.env",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -838,11 +843,22 @@
       <option name="presentableId" value="Default" />
       <updated>1756209523034</updated>
       <workItem from="1756209524604" duration="43122000" />
-      <workItem from="1756264549756" duration="607000" />
+      <workItem from="1756264549756" duration="2867000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

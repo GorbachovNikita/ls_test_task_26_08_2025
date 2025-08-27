@@ -1,10 +1,12 @@
 {
   "name": "gorbachov-amo-backend",
   "version": "1.0.0",
+  "author": "Горбачев Н. Д.",
+  "description": "Техническое задание",
   "main": "index.js",
   "scripts": {
     "start": "node --no-deprecation index.js",
-    "dev": "node_modules/.bin/nodemon --no-deprecation index.js"
+    "dev": "nodemon --no-deprecation index.js"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"

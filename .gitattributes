@@ -1,0 +1,5 @@
+* text=auto
+*.xml text eol=lf
+*.json text eol=lf
+.idea/workspace.xml -text
+package.json -text
